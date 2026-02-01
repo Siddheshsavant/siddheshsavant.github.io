@@ -1,2 +1,1 @@
-# siddheshsavant.github.io
-Siddhes Savant Portfolio Website
+Siddhesh Savant Portfolio Website
